@@ -13,7 +13,7 @@ software.
 
 
 ---
-📈 Objetivos
+## 📈 Objetivos
 Busco oportunidades para adquirir experiência prática na área de tecnologia, colaborar em projetos desafiadores e evoluir constantemente como desenvolvedor.
 
 ## 🚀 Tecnologias e Conhecimentos
