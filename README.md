@@ -6,7 +6,13 @@ Sou estudante do curso Técnico em Desenvolvimento de Sistemas pelo SESI-SENAI d
 
 Tenho interesse em desenvolvimento de software, infraestrutura de TI e automação, buscando sempre aprimorar meus conhecimentos por meio de projetos práticos e estudos contínuos.
 
-Atualmente estou desenvolvendo habilidades técnicas e profissionais para construir soluções eficientes, escaláveis e alinhadas às boas práticas da engenharia de software.
+Atualmente estou desenvolvendo habilidades técnicas e profissionais para construir soluções eficientes, escaláveis e alinhadas às boas práticas da engenharia de 
+software.
+
+📈 Objetivos
+Busco oportunidades para adquirir experiência prática na área de tecnologia, colaborar em projetos desafiadores e evoluir constantemente como desenvolvedor.
+
+
 
 ---
 
@@ -56,15 +62,14 @@ Atualmente estou desenvolvendo habilidades técnicas e profissionais para constr
 
 ---
 
-## 📈 Objetivos
-
-Busco oportunidades para adquirir experiência prática na área de tecnologia, colaborar em projetos desafiadores e evoluir constantemente como desenvolvedor.
-
 ---
 ---
 
 ⭐ Sempre aberto a novos aprendizados, desafios e oportunidades de crescimento profissional.
- 👋
+
+ 📫 Contato
+E-mail: [pdr.auguxtin777@gmail.com]
+
 
 <!--
 **PedroAugustoSantos777/PedroAugustoSantos777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
