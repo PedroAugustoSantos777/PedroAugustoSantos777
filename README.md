@@ -20,45 +20,45 @@ Busco oportunidades para adquirir experiência prática na área de tecnologia, 
 
 ### Linguagens e Desenvolvimento
 
-* Python
-* C++
-* Arduino
+ Python
+ C++
+ Arduino
 
 ### Sistemas Operacionais e Infraestrutura
 
-* Linux Ubuntu
-* Windows CMD
-* Redes e Infraestrutura de TI
+ Linux Ubuntu
+ Windows CMD
+ Redes e Infraestrutura de TI
 
 ### Engenharia de Software
 
-* Levantamento de requisitos
-* Modelagem de sistemas
-* Desenvolvimento de projetos
-* Boas práticas de programação
+ Levantamento de requisitos
+ Modelagem de sistemas
+ Desenvolvimento de projetos
+ Boas práticas de programação
 
 ---
 
 ## 📚 Atualmente Estudando
 
-* Desenvolvimento de aplicações com Python
-* Programação embarcada com Arduino
-* Administração de sistemas Linux
-* Engenharia de Software
-* Versionamento com Git e GitHub
-* Redes de computadores
+ Desenvolvimento de aplicações com Python
+ Programação embarcada com Arduino
+ Administração de sistemas Linux
+ Engenharia de Software
+ Versionamento com Git e GitHub
+ Redes de computadores
 
 ---
 
 ## 🎯 Competências
 
-* ✅ Autonomia
-* ✅ Gestão de Tempo
-* ✅ Desenvolvimento de Projetos de Software
-* ✅ Boa Comunicação
-* ✅ Trabalho em Equipe
-* ✅ Resolução de Problemas
-* ✅ Aprendizado Contínuo
+ ✅ Autonomia
+ ✅ Gestão de Tempo
+ ✅ Desenvolvimento de Projetos de Software
+ ✅ Boa Comunicação
+ ✅ Trabalho em Equipe
+ ✅ Resolução de Problemas
+ ✅ Aprendizado Contínuo
 
 ---
 
