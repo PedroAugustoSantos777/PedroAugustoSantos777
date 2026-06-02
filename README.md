@@ -9,12 +9,12 @@ Tenho interesse em desenvolvimento de software, infraestrutura de TI e automaç�
 Atualmente estou desenvolvendo habilidades técnicas e profissionais para construir soluções eficientes, escaláveis e alinhadas às boas práticas da engenharia de 
 software.
 
-📈 Objetivos
-Busco oportunidades para adquirir experiência prática na área de tecnologia, colaborar em projetos desafiadores e evoluir constantemente como desenvolvedor.
 
 
 
 ---
+📈 Objetivos
+Busco oportunidades para adquirir experiência prática na área de tecnologia, colaborar em projetos desafiadores e evoluir constantemente como desenvolvedor.
 
 ## 🚀 Tecnologias e Conhecimentos
 
